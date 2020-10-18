@@ -1,4 +1,4 @@
-// Paste this code inside discord.com console
+// Cole isso no console do seu navegador.
 
 (function () {
     let stop;
@@ -347,4 +347,4 @@
     }
 })();
 
-//END.
+//Fim.
